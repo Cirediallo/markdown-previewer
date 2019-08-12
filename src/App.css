@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+
+  /* === ADDED BY ME === */
+  /*display: flex;
+  flex-direction: row;*/
 }
 
 .App-logo {
